@@ -18,7 +18,7 @@ public class GamePanel extends JPanel implements Runnable{
     Paddle paddle1;
     Paddle paddle2;
     Ball ball;
-    Score score;//
+    Score score;
 
 
     GamePanel(){
